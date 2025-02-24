@@ -4,7 +4,6 @@
 //
 //  Created by Karamjit Singh on 17/02/25.
 //
-
 import Foundation
 import SwiftUI
 import CoreLocation

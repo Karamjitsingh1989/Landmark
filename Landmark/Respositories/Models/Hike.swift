@@ -6,7 +6,6 @@
 //
 import Foundation
 
-
 struct Hike: Codable, Hashable,  Identifiable {
     
     let name: String
